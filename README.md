@@ -1,18 +1,92 @@
-# 💫 About Me:
-💻 I’m currently working on full-stack applications and AI-based systems (RAG, APIs, automation)<br><br>🤝 I’m looking to collaborate on backend systems, scalable web apps, and AI projects<br><br>🛠 I’m looking for help with advanced system design and real-world production architectures<br><br>🌱 I’m currently learning system design, scalable backend engineering, and applied AI<br><br>💬 Ask me about backend development, Flutter apps, APIs, and building real-world projects<br><br>⚡ Fun fact: I built 40+ initiatives through my NGO while managing tech projects alongside
+<div align="center">
 
+<img src="assets/banner.svg" width="100%" alt="Light Inc. - Forward Deployed Engineer"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/udayadityaparbat) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:udayadityaparbat@gmail.com) 
+<a href="https://github.com/USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=FFD166&background=0B1030&center=true&vCenter=true&width=700&height=60&lines=PLAYER+1+READY...;LOADING+SOLUTIONS...;DEPLOYING+TO+PRODUCTION!;LEVEL+UP+%3E+SHIP+IT" alt="typing"/>
+</a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Udayadityaparbat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Udayadityaparbat&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Udayadityaparbat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Udayadityaparbat&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎮 PLAYER SELECT
+
+```
+╔══════════════════════════════════════════╗
+║  NAME    : YOUR NAME                     ║
+║  CLASS   : FORWARD DEPLOYED ENGINEER     ║
+║  GUILD   : LIGHT INC.                    ║
+║  BASE    : YOUR CITY, INDIA              ║
+║  STATUS  : ONLINE 🟢                     ║
+╚══════════════════════════════════════════╝
+```
+
+## 📜 QUEST LOG
+
+```
+▶ MAIN QUEST  : Embed with customers, ship what actually works
+▶ SIDE QUEST  : Learning Rust & system design
+▶ BOSS FIGHT  : Production bugs at 2 AM
+▶ LOOT        : Happy customers, clean integrations
+```
+
+## ⚔️ STATS
+
+```
+DEBUGGING      ▰▰▰▰▰▰▰▰▰▱  90
+COMMUNICATION  ▰▰▰▰▰▰▰▰▱▱  80
+PYTHON         ▰▰▰▰▰▰▰▰▰▱  90
+JAVASCRIPT     ▰▰▰▰▰▰▰▰▱▱  80
+SQL / DATA     ▰▰▰▰▰▰▰▱▱▱  70
+COFFEE         ▰▰▰▰▰▰▰▰▰▰  MAX
+```
+
+## 🧰 INVENTORY
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,postgres,docker,aws,git,linux&perline=10" alt="inventory"/>
+
+</div>
+
+## 🕹️ WHAT A FORWARD DEPLOYED ENGINEER DOES
+
+```
+[1] Sit with the customer, understand the real problem
+[2] Build & integrate solutions right where they're needed
+[3] Turn field feedback into product improvements
+[4] Deploy, monitor, iterate. Repeat.
+```
+
+## 🏆 ACHIEVEMENTS UNLOCKED
+
+- 🥇 **First Deploy** - shipped to a real customer
+- 🐛 **Bug Slayer** - fixed a bug in prod under pressure
+- 🤝 **Trusted Partner** - customers ask for me by name
+- 🌙 **Night Owl** - debugging past midnight
+
+## 📊 HIGH SCORES
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&hide_border=true&border_radius=0" alt="stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical&hide_border=true&border_radius=0" alt="languages"/>
+
+</div>
+
+## 📫 CONTINUE? INSERT COIN
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1030)](https://linkedin.com/in/your-handle)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1030)](mailto:you@example.com)
+[![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0B1030)](https://twitter.com/your-handle)
+
+```
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+   PRESS START TO COLLABORATE  ▶
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+```
+
+</div>

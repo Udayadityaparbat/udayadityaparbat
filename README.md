@@ -7,7 +7,7 @@
 ╚══════╝╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   INC.
 ```
 
-# 👋 Hi, I'm YOUR NAME
+# 👋 Hi, I'm Uday aka Kai
 
 ### Forward Deployed Engineer @ Light Inc.
 
